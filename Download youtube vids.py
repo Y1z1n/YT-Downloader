@@ -16,10 +16,10 @@ except:
     system("cls || clear")
     init()
 #SYNTAX 
-# python "Download youtube vids.py" -Format mp3 -Video Video https://www.youtube.com/watch?v=wz0OxLgSdFY
+# python "Download youtube vids.py" -Format mp3 -Video Video https://www.youtube.com/watch?v={CODE}
 
 
-# python "Download youtube vids.py" -Format mp3 -Video Playlist https://www.youtube.com/playlist?list=PLhYUQy9RGCdDTLOcVvMG9qyC0-8wKq1F8
+# python "Download youtube vids.py" -Format mp3 -Video Playlist https://www.youtube.com/playlist?list={CODE}
 
 print(Fore.RED + """⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣧⠀⠀⠀⢰⡿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
