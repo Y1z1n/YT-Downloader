@@ -6,4 +6,6 @@ it was via VB.net
 
 so you can call it a merge between VB.net (as front-end) & python (as back-end)
 
+Even tho the script(python) can work perfectly without any GUI
+
 hope you find this useful
